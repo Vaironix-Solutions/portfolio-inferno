@@ -156,7 +156,7 @@ Or simply double-click `index.html`.
 - 📧 areef.shaik0123@gmail.com
 - 📞 +91 9110349362
 - 🔗 [linkedin.com/in/areef-shaik3](https://www.linkedin.com/in/areef-shaik3/)
-- 📍 Bengaluru, India
+- 🐙 [github.com/AREEF3](https://github.com/AREEF3)
 
 ---
 
