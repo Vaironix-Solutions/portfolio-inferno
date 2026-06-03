@@ -9,7 +9,9 @@
 
 ## 🚀 Live Demo
 
-> Open `index.html` directly in your browser — no build tools or server required.
+🌐 **[https://vaironix-inferno-portfolio.vercel.app/](https://vaironix-inferno-portfolio.vercel.app/)**
+
+> Deployed on Vercel — no build tools or server required.
 
 ---
 
